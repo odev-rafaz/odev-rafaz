@@ -1,0 +1,4 @@
+- 👋 Dev Rafaz
+- 👀 Desenvolvedor de bots para discord
+- 🌱 Estudando python
+- 📫 discord - dev.rafaz#0007
